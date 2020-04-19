@@ -99,7 +99,7 @@ p {
 
 /* Cards media queries */
 
-@media (max-width: 1590px) {
+@media (max-width: 1300px) {
   .cards {
     grid-template-columns: 1fr 1fr 1fr;
   }
